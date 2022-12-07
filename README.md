@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fashons
+- 👋 Hi, I’m @Fash
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning different types of codes
 - 💞️ I’m looking to collaborate on large companies
